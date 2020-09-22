@@ -40,6 +40,7 @@ PyWavelets = "==0.5.2"
 opencv-contrib-python = "*"
 pyinstaller = "*"
 tkmedia = "*"
+opencv-python = "*"
 
 [requires]
 python_version = "3.8"
